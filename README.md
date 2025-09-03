@@ -15,4 +15,4 @@ Training and prediction features are separeted. You can first train the model ru
 
 ### Graphical Visualizations
 ![alt text](notebooks/Confusion-Matrix.png)
-![alt text](notebooks/Most-Important-Features-for-Spam-Detection.png)
+![alt text](notebooks/Spam-Features.png)
