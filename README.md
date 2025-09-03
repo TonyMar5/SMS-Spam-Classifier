@@ -14,5 +14,5 @@ In the *dataset* folder you will find the original UCI SMS Spam Collection datas
 Training and prediction features are separeted. You can first train the model running train.py, that will compute the evaluation metrics as well, and then classify a given SMS running main.py.
 
 ### Graphical Visualizations
-![alt text](notebooks/Confusion-Matrix.png) 
-![alt text](<notebooks/Most Important Features for Spam Detection.png>)
+![alt text](notebooks/Confusion-Matrix.png)
+![alt text](notebooks/Most-Important-Features-for-Spam-Detection.png)
