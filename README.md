@@ -6,7 +6,7 @@ Simple Machine Leanring Project that classifies SMS messages as **Spam** or **Ha
 - Data preprocessing (includes: cleaning text from stopwords and tokenization)
 - Implemented TF-IDF vectorization to transform SMS messages into numerical features.
 - Model trained using Logistic Regression algorithm
-- Model evaluation includes: accuracy, precision, recall and F1-score metrics !!!!
+- Model evaluation includes: accuracy, precision, recall and F1-score metrics
 - Graphical visualization of **feature importance** and **confusion matrix** 
 - Implemented simple predict function that predicts whether a given SMS message is ham or spam
 ## :file_folder: Project Structure 
