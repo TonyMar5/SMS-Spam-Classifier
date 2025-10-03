@@ -1,6 +1,6 @@
 ## Overview
 
-Simple Machine Leanring Project that classifies SMS messages as **Spam** or **Ham**. The dataset used for this project is [UCI SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection) public dataset.
+Simple Machine Learning Project that classifies SMS messages as **Spam** or **Ham**. The dataset used for this project is [UCI SMS Spam Collection](https://archive.ics.uci.edu/dataset/228/sms+spam+collection) public dataset.
 
 ## Features 
 - Data preprocessing (includes: cleaning text from stopwords and tokenization)
